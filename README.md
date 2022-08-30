@@ -2,7 +2,7 @@
 
 ## **Content:**
 
-* ### [helloworld](helloworld)
-* ### [password_generator](password-generator)
+* ### [hello-world](hello-world)
+* ### [password-generator](password-generator)
 
 [Back &#8679;](#content)
