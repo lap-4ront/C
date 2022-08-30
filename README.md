@@ -3,5 +3,6 @@
 ## **Content:**
 
 * ### [helloworld](helloworld)
+* ### [password_generator](password-generator)
 
 [Back &#8679;](#content)
